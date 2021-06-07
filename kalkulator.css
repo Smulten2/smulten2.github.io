@@ -65,10 +65,6 @@ body {
     background-size: cover;
 }
 
-.menu {
-    padding: 20px;    
-}
-
 .menu li {
     display: inline;
     padding: 20px 20px 15px 20px;
