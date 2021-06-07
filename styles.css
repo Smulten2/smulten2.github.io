@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin:0;
+}
+
+.header {
+    text-align: center;
+    height: 25vh;
+    background-image: url("Img/Savanne.jpg");
+    background-size: cover;
+}
+
+.menu {
+    padding: 20px;    
+}
+
+.menu li {
+    display: inline;
+    padding: 20px 20px 15px 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.menu li:hover{
+    background-color: rgba(20, 143, 190, .2);
+}
+
+.menu a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+
+.main-body {
+    text-align: center;
+    background-color: lightgrey;
+    height: 75vh;
+}
